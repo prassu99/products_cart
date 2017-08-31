@@ -1,0 +1,14 @@
+body{font-family:Helvetica, sans-serif;}
+.header{padding-top:20px;}
+.main-header{border:1px solid #e6e6e6;float:left;padding:20px;}
+.header h2{color:#333;font-size:16px;font-weight:bold;margin-top:20px;margin-bottom:20px;}
+.header ul li{font-size:14px;color:#333;}
+.btn-success{background: #338700;color: #fff;border-radius: 0px;width: 100%;font-size: 14px;height:40px;}
+.header h3{font-size:22px;font-weight:bold;color:#333;margin-top:20px;}
+.product-wrap{padding-top:25px;}
+.product-wrap .product-box{border:1px solid #e6e6e6;padding:20px;margin-bottom:20px;min-height: 360px;}
+.product-wrap .product-box .product-img{text-align:center;padding-bottom:20px;}
+.product-wrap .product-box h3{font-size:14px;color:#333;font-weight:bold;margin-bottom:10px;}
+.product-wrap .product-box h4{font-size:16px;color:#333;font-weight:bold;margin-bottom:15px;}
+.btn-default{width: 100%;border-radius:0px; font-size: 14px;border: 1px solid #ccc;color: #0471AF;height: 40px; transition:all 0.5s;}
+.btn-default:hover{background:#0471AF;color:#fff;border:1px solid #0471AF;}
